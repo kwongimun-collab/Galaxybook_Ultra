@@ -1,2 +1,2 @@
-# windows-projects
+# Galaxybook
 projects
